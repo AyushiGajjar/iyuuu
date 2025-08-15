@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/aayushi-gajjar-2b42b9289)
-[![Email](iugajjar2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aayushi-gajjar-2b42b9289)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](iugajjar2006@gmail.com)
 
 ---
 ⭐ *“Engineer solutions, not excuses.”*
