@@ -1,6 +1,4 @@
-## Hieeee ! I am Aayushi Gajjar.
-
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aayushi Gajjar 👋
 
 🎓 **Instrumentation & Control Engineering Student** | 3rd Year at GEC, Gandhinagar.  
 💡 Passionate about **AI, IoT, Control Systems, and Embedded Electronics**  
