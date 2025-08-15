@@ -4,14 +4,6 @@
 💡 Passionate about **AI, IoT, Control Systems, and Embedded Electronics**  
 🚀 Currently working on **IC startup projects** and learning **RISC-V, AI accelerator chips, and IoT sensor design** and many more
 
----
-
-## 🔧 Tech Stack & Tools
-- **Languages:** Python, C/C++, MATLAB  
-- **Tools:** SolidWorks, MATLAB, Google Cloud, Arduino, Raspberry Pi  
-- **Domains:** IoT, Control Systems, Embedded Systems, PCB Design  
-
----
 
 ## 📌 Current Goals
 - Build impactful IoT prototypes  
